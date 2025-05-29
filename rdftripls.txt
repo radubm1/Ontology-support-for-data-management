@@ -1,0 +1,100 @@
+<root, 0, How familiar are you with cloud native technologies? (select one)>
+<How familiar are you with cloud native technologies? (select one), type, null>
+<root, 0, 1.0>
+<1.0, type, Don't know or not sure>
+<root, 1, How familiar are you with cloud native technologies? (select one)>
+<How familiar are you with cloud native technologies? (select one), type, null>
+<root, 1, 1.0>
+<1.0, type, Not at all familiar>
+<root, 2, How familiar are you with cloud native technologies? (select one)>
+<root, 2, 1.0>
+<1.0, type, Not very familiar>
+<root, 3, How familiar are you with cloud native technologies? (select one)>
+<root, 3, 1.0>
+<1.0, type, Somewhat familiar>
+<root, 4, How familiar are you with cloud native technologies? (select one)>
+<root, 4, 1.0>
+<1.0, type, Very familiar>
+<root, 5, How familiar are you with cloud native technologies? (select one)>
+<root, 5, 1.0>
+<1.0, type, Extremely familiar>
+<root, 6, 2.0>
+<2.0, type, Don't know or not sure>
+<root, 6, Please indicate what best describes who you are. (select one)>
+<Please indicate what best describes who you are. (select one), type, null>
+<root, 7, 2.0>
+<2.0, type, I'm just lines of code>
+<root, 7, Please indicate what best describes who you are. (select one)>
+<Please indicate what best describes who you are. (select one), type, null>
+<root, 8, 2.0>
+<2.0, type, I am a real person>
+<root, 8, Please indicate what best describes who you are. (select one)>
+<root, 9, 2.0>
+<2.0, type, I am a bot>
+<root, 9, Please indicate what best describes who you are. (select one)>
+<Please indicate what best describes who you are. (select one), type, null>
+<root, 10, 2.0>
+<2.0, type, I just want to mess with the researchers>
+<root, 11, What is your current employment status? (select one)>
+<What is your current employment status? (select one), type, null>
+<root, 11, 3.0>
+<3.0, type, Don't know or not sure>
+<root, 12, What is your current employment status? (select one)>
+<root, 12, 3.0>
+<root, 13, What is your current employment status? (select one)>
+<root, 13, 3.0>
+<root, 14, What is your current employment status? (select one)>
+<root, 14, 3.0>
+<root, 15, What is your current employment status? (select one)>
+<root, 15, 3.0>
+<root, 16, What is your current employment status? (select one)>
+<root, 16, 3.0>
+<root, 17, 3.0>
+<root, 18, What is your current employment status? (select one)>
+<What is your current employment status? (select one), type, null>
+<root, 18, 3.0>
+<3.0, type, Retired>
+<root, 19, 4.0>
+<4.0, type, Don't know or not sure>
+<root, 19, Are you working alongside your studies? (select one)>
+<Are you working alongside your studies? (select one), type, null>
+<root, 20, 4.0>
+<4.0, type, Yes>
+<root, 20, Are you working alongside your studies? (select one)>
+<Are you working alongside your studies? (select one), type, null>
+<root, 21, 4.0>
+<4.0, type, No>
+<root, 21, Are you working alongside your studies? (select one)>
+<Are you working alongside your studies? (select one), type, null>
+<root, 22, How many years of professional experience in IT (Information Technology) do you have? (select one)>
+<How many years of professional experience in IT (Information Technology) do you have? (select one), type, null>
+<root, 22, 5.0>
+<5.0, type, No experience>
+<root, 23, How many years of professional experience in IT (Information Technology) do you have? (select one)>
+<root, 23, 5.0>
+<5.0, type, Less than 2 years>
+<root, 24, How many years of professional experience in IT (Information Technology) do you have? (select one)>
+<root, 24, 5.0>
+<5.0, type, 2-5 years>
+<root, 25, How many years of professional experience in IT (Information Technology) do you have? (select one)>
+<root, 25, 5.0>
+<5.0, type, 6-10 years>
+<root, 26, How many years of professional experience in IT (Information Technology) do you have? (select one)>
+<root, 26, 5.0>
+<5.0, type, More than 10 years>
+<root, 27, 6.0>
+<6.0, type, No experience>
+<root, 27, How many years of professional experience do you have working in cloud-based environments? (select one)>
+<How many years of professional experience do you have working in cloud-based environments? (select one), type, null>
+<root, 28, 6.0>
+<6.0, type, Less than 2 years>
+<root, 28, How many years of professional experience do you have working in cloud-based environments? (select one)>
+<root, 29, 6.0>
+<6.0, type, 2-5 years>
+<root, 29, How many years of professional experience do you have working in cloud-based environments? (select one)>
+<root, 30, 6.0>
+<6.0, type, 6-10 years>
+<root, 30, How many years of professional experience do you have working in cloud-based environments? (select one)>
+<root, 31, 6.0>
+<6.0, type, More than 10 years>
+<root, 31, How many years of professional experience do you have working in cloud-based environments? (select one)>

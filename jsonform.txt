@@ -1,0 +1,128 @@
+[
+  {
+    "How familiar are you with cloud native technologies? (select one)": "null",
+    "1.0": "Don't know or not sure"
+  },
+  {
+    "How familiar are you with cloud native technologies? (select one)": "null",
+    "1.0": "Not at all familiar"
+  },
+  {
+    "How familiar are you with cloud native technologies? (select one)": 22,
+    "1.0": "Not very familiar"
+  },
+  {
+    "How familiar are you with cloud native technologies? (select one)": 212,
+    "1.0": "Somewhat familiar"
+  },
+  {
+    "How familiar are you with cloud native technologies? (select one)": 423,
+    "1.0": "Very familiar"
+  },
+  {
+    "How familiar are you with cloud native technologies? (select one)": 331,
+    "1.0": "Extremely familiar"
+  },
+  {
+    "2.0": "Don't know or not sure",
+    "Please indicate what best describes who you are. (select one)": "null"
+  },
+  {
+    "2.0": "I'm just lines of code",
+    "Please indicate what best describes who you are. (select one)": "null"
+  },
+  {
+    "2.0": "I am a real person",
+    "Please indicate what best describes who you are. (select one)": 988
+  },
+  {
+    "2.0": "I am a bot",
+    "Please indicate what best describes who you are. (select one)": "null"
+  },
+  {
+    "2.0": "I just want to mess with the researchers"
+  },
+  {
+    "What is your current employment status? (select one)": "null",
+    "3.0": "Don't know or not sure"
+  },
+  {
+    "What is your current employment status? (select one)": 12,
+    "3.0": 2
+  },
+  {
+    "What is your current employment status? (select one)": 899,
+    "3.0": 2
+  },
+  {
+    "What is your current employment status? (select one)": 21,
+    "3.0": 2
+  },
+  {
+    "What is your current employment status? (select one)": 38,
+    "3.0": 2
+  },
+  {
+    "What is your current employment status? (select one)": 18,
+    "3.0": 2
+  },
+  {
+    "3.0": 2
+  },
+  {
+    "What is your current employment status? (select one)": "null",
+    "3.0": "Retired"
+  },
+  {
+    "4.0": "Don't know or not sure",
+    "Are you working alongside your studies? (select one)": "null"
+  },
+  {
+    "4.0": "Yes",
+    "Are you working alongside your studies? (select one)": "null"
+  },
+  {
+    "4.0": "No",
+    "Are you working alongside your studies? (select one)": "null"
+  },
+  {
+    "How many years of professional experience in IT (Information Technology) do you have? (select one)": "null",
+    "5.0": "No experience"
+  },
+  {
+    "How many years of professional experience in IT (Information Technology) do you have? (select one)": 40,
+    "5.0": "Less than 2 years"
+  },
+  {
+    "How many years of professional experience in IT (Information Technology) do you have? (select one)": 144,
+    "5.0": "2-5 years"
+  },
+  {
+    "How many years of professional experience in IT (Information Technology) do you have? (select one)": 272,
+    "5.0": "6-10 years"
+  },
+  {
+    "How many years of professional experience in IT (Information Technology) do you have? (select one)": 506,
+    "5.0": "More than 10 years"
+  },
+  {
+    "6.0": "No experience",
+    "How many years of professional experience do you have working in cloud-based environments? (select one)": "null"
+  },
+  {
+    "6.0": "Less than 2 years",
+    "How many years of professional experience do you have working in cloud-based environments? (select one)": 111
+  },
+  {
+    "6.0": "2-5 years",
+    "How many years of professional experience do you have working in cloud-based environments? (select one)": 361
+  },
+  {
+    "6.0": "6-10 years",
+    "How many years of professional experience do you have working in cloud-based environments? (select one)": 363
+  },
+  {
+    "6.0": "More than 10 years",
+    "How many years of professional experience do you have working in cloud-based environments? (select one)": 116
+  }
+]
